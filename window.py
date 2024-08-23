@@ -6,7 +6,6 @@ global app
 app = ctk.CTk()
 
 # Classe da tela de cadastro com as informações da tela (título, elementos presentes, etc)
-# Pronta e já funciona
 class Window_Cadastro:
     def __init__(self):
         # Título da janela
@@ -124,7 +123,6 @@ class Window_Cadastro:
         return window_atualiza.exibir_todos_elementos()
 
 # Classe da tela de login com as informações da tela (título, elementos presentes, etc)
-# Pronta e já funciona
 class Window_Login:
     def __init__(self):
         # Título da janela
@@ -243,7 +241,6 @@ class Window_Login:
         return window_atualiza.exibir_todos_elementos()
 
 # Classe da tela de exclusão com as informações da tela (título, elementos presentes, etc)
-# Pronta e já funciona
 class Window_Delete_Dados:
     def __init__(self):
         self.title:str = 'Exclusão'
@@ -364,7 +361,6 @@ class Window_Delete_Dados:
         return window_atualiza.exibir_todos_elementos()
 
 # Classe da tela de atualização com as informações da tela (título, elementos presentes, etc)
-# Falta muita coisa
 class Window_Atualiza_Dados:
     def __init__(self):
         self.title:str = 'Atualização e Modificação'
