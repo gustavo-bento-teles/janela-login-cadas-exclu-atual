@@ -97,6 +97,6 @@ O banco de dados SQLite do projeto é composto por 3 colunas com seus respectivo
 
 ## Contribuição
 
-Caso queira contribuir, modificar ou ter uso próprio do projeto pode ficar à vontade, **para mais informações do que é permitido ou não, recomendo que leia o arquivo "LICENSE.md"** que está presente neste mesmo repositório.
+Caso queira modificar ou ter uso próprio do projeto pode ficar à vontade, **para mais informações do que é permitido ou não, recomendo que leia o arquivo "LICENSE.md"** que está presente neste mesmo repositório.
 
 *Este projeto está licenciado sob a Licença MIT.*
