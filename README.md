@@ -93,7 +93,9 @@ O banco de dados SQLite do projeto é composto por 3 colunas com seus respectivo
 |----|------|-------|
 | int | string | string |
 
-> Caso a tabela não exista ao iniciar o código, ela automaticamente será criada, caso já exista e tenha dados, os dados se manterão.
+*A chave primária (primary key) é a coluna "id".*
+
+> Caso a tabela não exista ao iniciar o código, ela automaticamente será criada, caso já exista e tenha dados (ou não), os dados se manterão.
 
 ## Contribuição
 
