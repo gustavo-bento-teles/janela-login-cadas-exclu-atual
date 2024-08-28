@@ -91,7 +91,7 @@ O banco de dados SQLite do projeto é composto por 3 colunas com seus respectivo
 
 | id | nome | senha |
 |----|------|-------|
-| int | string | string |
+| int | varchar | varchar |
 
 *A chave primária (primary key) é a coluna "id".*
 
